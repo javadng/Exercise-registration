@@ -393,6 +393,11 @@ header .menu ul li.workout .workout__detail span.workou_icon {
 }
 
 /* media query */
+@media only screen and (max-width: 768px) {
+  .modal__info {
+    max-width: 80% !important;
+  }
+}
 @media only screen and (max-width: 380px) {
   header .menu {
     width: 100%;
