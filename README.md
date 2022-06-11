@@ -2,4 +2,4 @@
 
 link : 👇👇
 
-exercise-oop-javad.netlify.app
+https://exercise-oop-javad.netlify.app/
